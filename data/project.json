@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "benwbrum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199961?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "benwbrum",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-26T16:30:08.981Z",
-    "updated_at": "2025-05-26T16:30:08.981Z"
-  }
+    "updated_at": "2025-05-26T16:30:08.981Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "294fd313-2f85-4210-a75e-f18a1393a573": {
+      "content": [],
+      "created_at": "2025-05-26T16:30:09.004Z",
+      "created_by": "benwbrum",
+      "title": "Choice tests",
+      "updated_at": "2025-05-26T16:30:09.004Z",
+      "updated_by": "benwbrum",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "294fd313-2f85-4210-a75e-f18a1393a573"
+  ]
 }
