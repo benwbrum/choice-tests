@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-05-26T17:02:33.004Z",
+  "created_by": "benwbrum",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1-2",
+  "updated_at": "2025-05-26T17:02:33.004Z",
+  "updated_by": "benwbrum",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ad59e1e9-ba25-4a36-b963-77700ce74fa9"
+  }
+}
